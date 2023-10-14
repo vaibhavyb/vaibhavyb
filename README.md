@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **knvaibhav66@gmail.com**
 
-- ⚡ Fun fact **More comfort zone that's exactly when u leave**
+- ⚡  **Leave now if u r in comfort zone**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
