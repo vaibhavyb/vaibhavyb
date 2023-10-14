@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my github profile](https://github.com/)
 
-- 🌱 I’m currently learning **AZ-900: Microsoft Azure Fundamentals**
+- 🌱 I’m Cloud Certified  **CLF-02: AMAZON CLOUD PRACTITIONER**
 
 - 👯 I’m looking to collaborate on **different projects**
 
