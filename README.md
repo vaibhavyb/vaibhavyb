@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **different projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nagaajay4](https://github.com/vaibhavyb)
+- 👨‍💻 All of my projects are available at [https://github.com/vaibhavyb](https://github.com/vaibhavyb)
 
 - 💬 Ask me about **java 8, sql, springboot, react** 
 
