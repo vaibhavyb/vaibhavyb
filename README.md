@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
   
   <a href="https://springboot.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot.svg" alt="springboot" width="40" height="40"/> </a>
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/4JFn93iA5DZgomgcIPJOPx/700a59ae9668acf22df959dcf45b409a/spring" alt="springboot" width="40" height="40"/> </a>
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazoncloud" width="40" height="40"/> </a> 
@@ -50,6 +50,4 @@
  
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagaajay4&show_icons=true&locale=en&layout=compact" alt="nagaajay4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagaajay4&" alt="nagaajay4" /></p>
